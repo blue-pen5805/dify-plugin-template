@@ -1,6 +1,5 @@
 .env
 
 .bin/
-.outputs/
 
 *.difypkg
